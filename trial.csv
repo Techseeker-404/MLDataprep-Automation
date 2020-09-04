@@ -1,0 +1,16 @@
+cat1,cat2,cat3,cat4,cat5,col1,col2,col3,col4
+c,abv,gh,y,usr,123,12,,123
+v,babv,gh,n,sys,12,23,,112
+g,,fj,n,int,144,12,11,112
+g,babv,kl,n,int,,23,,56
+v,babv,kl,n,int,25,34,,124
+g,babv,kl,y,int,,31,23,156
+g,babv,,y,,25,36,12,1344
+v,abv,on,cd,int,178,39.8,,13
+c,abv,gh,cd,usr,112,43.6,12,111
+c,abv,gh,cd,sys,112,47.4,23,123
+c,abv,fj,cd,sys,112,51.2,15,13
+v,babv,kl,,sys,,55,16,111
+g,aabv,kl,,usr,,58.8,17.5,1323
+c,babv,kl,cd,usr,12,62.6,17.9,122
+v,aabv,on,cd,usr,23,66.4,18.3,112
